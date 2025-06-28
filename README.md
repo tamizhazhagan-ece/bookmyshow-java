@@ -30,3 +30,59 @@ A console-based movie ticket booking system inspired by BookMyShow. This Java ap
    ```bash
    git clone https://github.com/tamizhazhagan-ece/bookmyshow-java.git
    cd bookmyshow-java/tamizhazhagan/src
+2. Compile the code:
+   ```bash
+   javac BookMyShow/Main.java
+3. Run the program:
+   ```bash
+   java BookMyShow.Main
+
+## 📁 Project Structure
+
+tamizhazhagan/
+└── src/
+└── BookMyShow/
+├── Main.java
+├── Admin.java
+├── User.java
+├── ShowMovies.java
+├── ShowTheater.java
+├── SelectScreen.java
+└── TicketBooking.java
+
+---
+
+## 🧪 How to Run
+
+### Prerequisites
+
+* Java JDK 8 or above
+* A terminal or Java-supported IDE
+
+### Run via Terminal
+
+bash
+cd tamizhazhagan/src
+javac BookMyShow/Main.java
+java BookMyShow.Main
+
+
+### Run via IDE
+
+1. Open the project in your IDE.
+2. Navigate to Main.java.
+3. Right-click and select **Run**.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+* Tamizhazhagan S
+
+   
