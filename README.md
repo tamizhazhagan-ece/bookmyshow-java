@@ -36,25 +36,6 @@ tamizhazhagan/\
 ├── ShowTheater.java\
 ├── SelectScreen.java\
 =======
-# bookmyshow-java
-Java-based console application for movie ticket booking
-# 🎟️ BookMyShow Console Application (Java)
-
-A console-based movie ticket booking system inspired by BookMyShow. This Java application allows users to browse movies, select theaters and screens, and book tickets interactively via the command line.
-
----
-
-## 📌 Features
-
-- 👤 User and Admin login
-- 🎬 Show available movies
-- 🏛️ Show theaters and screens
-- 🪑 Seat selection and ticket booking
-- 📃 Booking history
-- 🛠 Admin functionalities (manage movies/theaters)
-
----
-
 ## 🚀 How to Run
 
 ### Requirements
@@ -75,62 +56,6 @@ A console-based movie ticket booking system inspired by BookMyShow. This Java ap
    ```bash
    java BookMyShow.Main
 
-## 📁 Project Structure
-
-tamizhazhagan/
-└── src/
-└── BookMyShow/
-├── Main.java
-├── Admin.java
-├── User.java
-├── ShowMovies.java
-├── ShowTheater.java
-├── SelectScreen.java
->>>>>>> 000e751c27cd317a47036e1cb1b4c07aeb9ebdcb
-└── TicketBooking.java
-
----
-
-## 🧪 How to Run
-
-### Prerequisites
-
-<<<<<<< HEAD
-- Java JDK 8 or above
-- A terminal or Java-supported IDE
-
-### Run via Terminal
-
-```bash
-cd tamizhazhagan/src
-javac BookMyShow/Main.java
-java BookMyShow.Main
-```
-=======
-* Java JDK 8 or above
-* A terminal or Java-supported IDE
-
-### Run via Terminal
-
-bash
-cd tamizhazhagan/src
-javac BookMyShow/Main.java
-java BookMyShow.Main
-
->>>>>>> 000e751c27cd317a47036e1cb1b4c07aeb9ebdcb
-
-### Run via IDE
-
-1. Open the project in your IDE.
-<<<<<<< HEAD
-2. Navigate to `Main.java`.
-=======
-2. Navigate to Main.java.
->>>>>>> 000e751c27cd317a47036e1cb1b4c07aeb9ebdcb
-3. Right-click and select **Run**.
-
----
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
@@ -138,12 +63,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## 👤 Author
-
-<<<<<<< HEAD
-- Tamizhazhagan S
-
 =======
 * Tamizhazhagan S
-
-   
->>>>>>> 000e751c27cd317a47036e1cb1b4c07aeb9ebdcb
